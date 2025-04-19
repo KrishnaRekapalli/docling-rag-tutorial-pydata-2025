@@ -11,7 +11,7 @@ You will need a way to do LLM inference for the `generation` step of RAG. For th
 
 # Docling Technical Paper: 
 
-The Docling Technical paper (https://arxiv.org/abs/2408.09869) has detailed information on the models behind and how the document processing works for layout recognition, table structure recognition and optional OCR. 
+The Docling Technical paper (https://arxiv.org/pdf/2408.09869v4) has detailed information on the models behind and how the document processing works for layout recognition, table structure recognition and optional OCR. 
 
 
 <img width="660" alt="image" src="https://github.com/user-attachments/assets/2949d164-cfd6-4f22-946d-1257cba31ee7" />
